@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <TextView
+            android:text="Where do you want to go?"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="15dp"
+            android:textSize="30sp"
+            android:textColor="?attr/colorControlNormal" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_weight="0.88" />
+
+        <Button android:layout_height="375dp"
+            android:id="@+id/btn_transit"
+            android:elevation="0dp"
+            android:background="@drawable/btn_click"
+            android:layout_width="375dp"
+            android:onClick="getDestination"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="1dp"
+            android:layout_marginBottom="27dp" />
+
+
+
+
+    </LinearLayout>
+</LinearLayout>

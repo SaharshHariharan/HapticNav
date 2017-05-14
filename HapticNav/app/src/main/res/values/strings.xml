@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HapticNav</string>
+    <string name="simple_direction">Simple Direction</string>
+    <string name="transit_direction">What is the Destination?</string>
+    <string name="alternative_direction">Alternative Direction</string>
+    <string name="request_direction">Create Route</string>
+    <string name="acquiredDestination"></string>
+</resources>
