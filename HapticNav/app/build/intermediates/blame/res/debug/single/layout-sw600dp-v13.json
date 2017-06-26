@@ -1,14 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\rg185\\Desktop\\HapticNav\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\rg185\\Desktop\\HapticNav\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
-    },
-    {
         "merged": "C:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\HapticNav\\HapticNav\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "C:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\HapticNav\\HapticNav\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "C:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\CWSF\\HapticNav\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\CWSF\\HapticNav\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "C:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\HapticNav\\HapticNav\\googleDirectionLibrary\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ur\\values-ur.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 210,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "C:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\HapticNav\\HapticNav\\googleDirectionLibrary\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\10.0.1\\res\\values-ur\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 210,
+                        "endOffset": 495
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\rg185\\Desktop\\HapticNav\\googleDirectionLibrary\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ur\\values-ur.xml",
         "map": [
             {

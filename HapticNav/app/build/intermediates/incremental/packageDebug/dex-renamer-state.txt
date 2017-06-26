@@ -1,7 +1,7 @@
-#Sat May 13 19:08:53 EDT 2017
-base.0=C\:\\Users\\rg185\\Desktop\\HapticNav\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fd5a2dfb5bf764753a0392a70f8e813fcd317a23
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\rg185\\Desktop\\HapticNav\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8a7a7a1440d5277af9503bb43b749dda81df1978\\classes.dex
-base.1=C\:\\Users\\rg185\\Desktop\\HapticNav\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8a7a7a1440d5277af9503bb43b749dda81df1978
-file.0=C\:\\Users\\rg185\\Desktop\\HapticNav\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fd5a2dfb5bf764753a0392a70f8e813fcd317a23\\classes.dex
+#Sun Jun 25 22:37:43 EDT 2017
+base.0=C\:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\HapticNav\\HapticNav\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6abbbba12102d07307ea15dbddc5c5042fee3609
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\HapticNav\\HapticNav\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4b78f4882002090012d57da60f9eff81567bec5a\\classes.dex
+base.1=C\:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\HapticNav\\HapticNav\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4b78f4882002090012d57da60f9eff81567bec5a
+file.0=C\:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\HapticNav\\HapticNav\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6abbbba12102d07307ea15dbddc5c5042fee3609\\classes.dex

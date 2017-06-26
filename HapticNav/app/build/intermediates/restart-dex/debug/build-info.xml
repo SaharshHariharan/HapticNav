@@ -5,32 +5,32 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1190615020753248"
-    token="7011955482870775372"
-    verifier="MANIFEST_FILE_CHANGE" >
+    timestamp="361130767092747"
+    token="-815848219686348204"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="660" />
+        duration="20015" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="137" />
+        duration="6471" />
     <task
         name="verifier"
-        duration="37" />
+        duration="741" />
 
     <artifact
-        location="C:\Users\rg185\Desktop\HapticNav\app\build\outputs\apk\app-debug.apk"
+        location="C:\Users\rg185\OneDrive\Documents\GitHub\HapticNav\HapticNav\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="1190615020753248"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="361130767092747"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\rg185\Desktop\HapticNav\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\rg185\OneDrive\Documents\GitHub\HapticNav\HapticNav\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

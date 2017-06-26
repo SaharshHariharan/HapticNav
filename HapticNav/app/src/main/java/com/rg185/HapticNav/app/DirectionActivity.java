@@ -780,7 +780,6 @@ public class DirectionActivity extends AppCompatActivity implements OnMapReadyCa
                         checkBTState();
 
                         sendData("6");
-
                         toaster = Toast.makeText(DirectionActivity.this, "Turn Left", Toast.LENGTH_LONG);
                         toaster.show();
                         vibe.vibrate(250);
@@ -806,7 +805,7 @@ public class DirectionActivity extends AppCompatActivity implements OnMapReadyCa
 
 
 
-            if (recalcChecker == true){
+            /*if (recalcChecker == true){
            for (int x = 0; x < allPolylinePoints.size(); x++) {
 
 
@@ -836,7 +835,7 @@ public class DirectionActivity extends AppCompatActivity implements OnMapReadyCa
                 tt.speak("Recalculating!",TextToSpeech.QUEUE_FLUSH,null,null);
                 requestDirection();
                 offRoute = false;
-            }
+            }*/
 
         }
 

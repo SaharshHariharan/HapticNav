@@ -1,14 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\rg185\\Desktop\\HapticNav\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\rg185\\Desktop\\HapticNav\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\HapticNav\\HapticNav\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "C:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\HapticNav\\HapticNav\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\CWSF\\HapticNav\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\rg185\\OneDrive\\Documents\\GitHub\\CWSF\\HapticNav\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]
